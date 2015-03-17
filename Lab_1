@@ -1,26 +1,28 @@
 <!doctype html>
 <html>
 	<head>
-		<link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-green.css">
+		<link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-grey.css">
 		<title>
 		</title>
 	</head>
 	<body>
 		<header>
+			<img src="https://olimex.files.wordpress.com/2013/06/c2.png">
 			<h1>My Blog</h1>
 		</header>
 		<section>
 			<header>
+				<img src="http://placekitten.com/200/150">
 				<h2>I built a webpage
 				</h2>
 				<h3>March 16, 2015
 				</h3>
-				<h4>Caitlin
+				<h4>Caitlin <span style="color: blue;">Enwright</span>
 				</h4>
 				<article>
-					<p>Hello! My name is Caitlin and this is my first day taking the part-time web dev course at Lighthouse Labs!
+					<p>Hello! My name is Caitlin and this is my <em>first day</em> taking the <span>part-time web dev course</span> at <strong>Lighthouse Labs</strong>!
 					</p>
-					<p>I am very excited to learn technical skills and meet new people during the next six weeks!
+					<p>I am <strong>very excited</strong> to learn <em>technical skills</em> and <em>meet new people</em> during the next six weeks!
 					</p>
 				</article>
 			</header>
